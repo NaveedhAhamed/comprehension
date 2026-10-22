@@ -1,0 +1,2 @@
+comprehensive loops
+zip function 
